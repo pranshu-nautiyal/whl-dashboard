@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whl-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/whl-dashboard/static/js/main.43bb2b6b.js",
+    "static/js/453.82569376.chunk.js": "/whl-dashboard/static/js/453.82569376.chunk.js",
+    "index.html": "/whl-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/whl-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.43bb2b6b.js.map": "/whl-dashboard/static/js/main.43bb2b6b.js.map",
+    "453.82569376.chunk.js.map": "/whl-dashboard/static/js/453.82569376.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.43bb2b6b.js"
+  ]
+}
